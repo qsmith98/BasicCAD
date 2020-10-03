@@ -43,7 +43,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
-<img src="images/Whatever.png" alt="Whatever" width="128" height="128">
+<img src="BasicCAD/castermount.png" alt="castermount.png" width="128" height="128">
 
 ### Description
 
