@@ -43,7 +43,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
-![](README.md/castermount.png)
+![](images1/castermount.png) 
 
 ### Description
 
@@ -55,7 +55,7 @@ https://cad.onshape.com/documents/61cc1b58f992282db309c2aa/w/f003c0469504d595001
 
 ### Reflection
 
-This was my second time in Onshape I felt very well prepared and this part was very easy but today adding the image of it in Github was so frustrating after an hour of trying and watching the video that I eventually gave up but I will try again tommorrow.
+This was my second time in Onshape I felt very well prepared and this part was very easy but today adding the image of it in Github was so frustrating after an hour of trying and watching the video that I eventually gave up but I will try again tommorrow. I figured out this images and now it is easy.
 
 ---
 
@@ -72,7 +72,7 @@ https://cad.onshape.com/documents/41a1291870b7e6e8cbd519a6/w/0c42d09d9722f65b79a
 
 ### Image
 
-Again I will come back and edit this I could not figure out how to insert an image
+![](images1/casterfork.png)
 
 ### Reflection
 
