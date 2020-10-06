@@ -43,8 +43,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
-Actually a link to my Onshape because I tried to import a picture for an hour and it didn't work I will come back and edit this when I ask next in office hours
-https://cad.onshape.com/documents/61cc1b58f992282db309c2aa/w/f003c0469504d59500114640/e/bd8f94d24f3d1c4f69c3c72f
+![](images/castermount.png)
 
 ### Description
 
