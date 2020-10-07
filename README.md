@@ -85,11 +85,19 @@ Overall this was really fun I had a great time making it the mirror of the tombs
 
 ### Description
 
+The sketch was a small trapezoid defined by a vertical and horizontal construction line coming from the origin. after the sketch was fully defined it was a simple revolve around the horizontal construction line and a fillet on the outside edge of the wheel and a color change to black. 
+
 ### Evidence
+
+https://cad.onshape.com/documents/e5b327b9db1507838b2d3591/w/1d380116e1e034fa48077fba/e/aff5d5f30e74011b42f19392
 
 ### Image
 
+<img src="images1/castertire.png" alt="castertire" width="400">
+
 ### Reflection
+
+The tire was really easy all it was was a simple trapezoid sketch, a revolve, and a fillet on an edge it took me about three minutes.
 
 ---
 
