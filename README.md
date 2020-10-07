@@ -43,7 +43,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Image
 
-![](images1/castermount.png) 
+<img src="images1/castermount.png" alt="castermount" width="400">
 
 ### Description
 
@@ -72,7 +72,7 @@ https://cad.onshape.com/documents/41a1291870b7e6e8cbd519a6/w/0c42d09d9722f65b79a
 
 ### Image
 
-![](images1/casterfork.png)
+<img src="images1/casterfork.png" alt="casterfork" width="400">
 
 ### Reflection
 
