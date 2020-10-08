@@ -108,7 +108,11 @@ The tire was really easy all it was was a simple trapezoid sketch, a revolve, an
 
 ### Evidence
 
+https://cad.onshape.com/documents/e5b327b9db1507838b2d3591/w/1d380116e1e034fa48077fba/e/aff5d5f30e74011b42f19392
+
 ### Image
+
+<img src="images1/casterwheel.png" alt="castertire" width="400">
 
 ### Reflection
 
