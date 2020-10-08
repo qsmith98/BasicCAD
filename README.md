@@ -114,7 +114,7 @@ https://cad.onshape.com/documents/e5b327b9db1507838b2d3591/w/1d380116e1e034fa480
 
 ### Image
 
-<img src="images1/casterwheel.png" alt="castertire" width="400">
+<img src="images1/casterwheel.png" alt="casterwheel" width="400">
 
 ### Reflection
 
@@ -129,7 +129,19 @@ Overall I thought this was a pretty easy thing to build the video on how to make
 
 ### Evidence
 
+https://cad.onshape.com/documents/147e945bbf8694e44dccbcc0/w/6ea985a45e8946ffe4b2df01/e/899d417d45405b9fb8a6af90
+
+https://cad.onshape.com/documents/24b365e6e903e87fff7015fd/w/0a55cfa66fecc8941f26a2ed/e/284a5fd4efe0a829094e46fb
+
+https://cad.onshape.com/documents/e5b327b9db1507838b2d3591/w/1d380116e1e034fa48077fba/e/aff5d5f30e74011b42f19392
+
 ### Image
+
+<img src="images1/casteraxelcolar.png" alt="casteraxlecolar" width="400">
+
+<img src="images1/casterbigbearing.png" alt="casterbigbearing" width="400">
+
+<img src="images1/casterwheelbearing.png" alt="casterbearing" width="400">
 
 ### Reflection
 
