@@ -106,6 +106,8 @@ The tire was really easy all it was was a simple trapezoid sketch, a revolve, an
 
 ### Description
 
+The wheel was very similar to the tire because it was a single I shaped sketch with a revolve but unlike the tire the revolve was larger and after it was finished I had to create 5 different spokes it a pattern along the face of the wheel.
+
 ### Evidence
 
 https://cad.onshape.com/documents/e5b327b9db1507838b2d3591/w/1d380116e1e034fa48077fba/e/aff5d5f30e74011b42f19392
@@ -115,6 +117,8 @@ https://cad.onshape.com/documents/e5b327b9db1507838b2d3591/w/1d380116e1e034fa480
 <img src="images1/casterwheel.png" alt="castertire" width="400">
 
 ### Reflection
+
+Overall I thought this was a pretty easy thing to build the video on how to make the spokes was very helpful though to make it.
 
 ---
 
