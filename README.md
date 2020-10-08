@@ -137,7 +137,7 @@ https://cad.onshape.com/documents/e5b327b9db1507838b2d3591/w/1d380116e1e034fa480
 
 ### Image
 
-<img src="images1/casteraxelcolar.png" alt="casteraxlecolar" width="400">
+<img src="images1/casteraxlecolar.png" alt="casteraxlecolar" width="400">
 
 <img src="images1/casterbigbearing.png" alt="casterbigbearing" width="400">
 
