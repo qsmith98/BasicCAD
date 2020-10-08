@@ -127,6 +127,8 @@ Overall I thought this was a pretty easy thing to build the video on how to make
 
 ### Description
 
+the axle was a long tube with two indents on either side for a screw to assemble. The collar was a extension of the axle with a hole for the screw that is going to hold the axle tight. The bearings were just extentions of the wheel in order to make it move easier.
+
 ### Evidence
 
 https://cad.onshape.com/documents/147e945bbf8694e44dccbcc0/w/6ea985a45e8946ffe4b2df01/e/899d417d45405b9fb8a6af90
@@ -144,5 +146,7 @@ https://cad.onshape.com/documents/e5b327b9db1507838b2d3591/w/1d380116e1e034fa480
 <img src="images1/casterwheelbearing.png" alt="casterbearing" width="400">
 
 ### Reflection
+
+Overall this build was easy because in order to get the dimensions you had to follow along with the video which was really easy it was fun to build them all and I can't wait to assemble the caster.
 
 ---
