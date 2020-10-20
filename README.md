@@ -150,3 +150,24 @@ https://cad.onshape.com/documents/e5b327b9db1507838b2d3591/w/1d380116e1e034fa480
 Overall this build was easy because in order to get the dimensions you had to follow along with the video which was really easy it was fun to build them all and I can't wait to assemble the caster.
 
 ---
+
+
+## Final Assembly
+
+### Description
+
+The final assembly was just connecting all of the parts that I had already made together using revolute and fastened mates and afeter all of the parts were mated together I put bolts, pins, and screws to hold the wheel together, the fork to the base, and to hold the base and the mount together.
+
+### Evidence
+
+https://cad.onshape.com/documents/81575d6295c0ce83783f7790/w/534445db09e7b6cd52e94d1b/e/38162bb4cc33a1c4e0d19547
+
+### Image
+
+
+
+### Reflection
+
+This was fairly easy and if I was confused about anything the video rewally helped and honestly it was very satisfying to see all the things that I made come together finally into the full caster.
+
+---
